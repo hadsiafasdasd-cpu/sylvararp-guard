@@ -10,7 +10,7 @@ not_found_handling = "single-page-application"
 [[d1_databases]]
 binding = "DB"
 database_name = "sylvara-guard-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "f28726c6-36db-43df-83e5-6e89cb384025"
 
 [vars]
 SITE_NAME = "Sylvara Guard"
